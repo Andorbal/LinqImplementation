@@ -1,0 +1,17 @@
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+bin/
+*.svd
+*.userprefs
+/src/*.csproj
+*.pidb
+*.suo
+/src/*.sln
+*.user
+*.unityproj
+*.booproj
+packages/
+Components/
